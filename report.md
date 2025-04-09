@@ -583,5 +583,5 @@ path = [
 ]
 ```
 
-4. Запустил `state_publisher` с новой траекторией
+2. Запустил `state_publisher` с новой траекторией
    ![gif](assets/youbot_dance_custom.gif)
